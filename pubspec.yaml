@@ -1,0 +1,10 @@
+name: anonchat_api
+description: A simple anonchat api implementation
+version: 0.0.1
+repository: https://github.com/anonchat-org/anonchat-api.dart
+
+environment:
+  sdk: '>=2.16.0 <3.0.0'
+
+dev_dependencies:
+  lints: ^1.0.0
